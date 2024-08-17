@@ -1,0 +1,23 @@
+.navCtn {
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+}
+
+nav {
+  background-color: aquamarine;
+  display: flex;
+  justify-content: space-between;
+  width: 70vw;
+}
+
+.navMenu {
+  background-color: blueviolet;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+  width: 40vw;
+  
+}
